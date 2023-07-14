@@ -1,5 +1,5 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-![Simulator Screenshot - iPhone 13 - 2023-07-14 at 10 11 14](https://github.com/vlad-henk/GalleryApp-by-henk/assets/108754931/d2e9a3ee-f362-4d7d-b5fd-ea6272f21f34)
+![imgonline-com-ua-twotoone-IwYeppjAoFTRjT](https://github.com/vlad-henk/GalleryApp-by-henk/assets/108754931/c403983e-cc90-4868-b110-e47fbe71d5a4)
 
 # Getting Started
 
