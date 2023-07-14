@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-This app uses API from unsplash. Inside is a page with photos, their authors and description. If you click on the photo, it will open in the maximum size
+This app uses API from unsplash. Inside is a page with photos, their authors and description. If you click on the photo, it will open in the maximum size.
 
 ![imgonline-com-ua-twotoone-IwYeppjAoFTRjT](https://github.com/vlad-henk/GalleryApp-by-henk/assets/108754931/c403983e-cc90-4868-b110-e47fbe71d5a4)
 
